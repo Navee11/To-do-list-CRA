@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useRef } from "react";
-import "../src/app.css";
+import "./app.css";
 import { FaEdit } from "react-icons/fa";
 import { MdDeleteForever } from "react-icons/md";
 
